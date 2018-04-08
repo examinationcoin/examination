@@ -1,0 +1,5 @@
+Building Examination
+
+See doc/build-*.md for instructions on building examinationd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitcoin.

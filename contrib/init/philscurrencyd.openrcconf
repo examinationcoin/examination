@@ -1,0 +1,27 @@
+# /etc/conf.d/examinationd: config file for /etc/init.d/examinationd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/examination/examination.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/examinationd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/examinationd.pid"
+
+# Where to write examinationd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/examinationd"
+
+# User and group to own examinationd process
+#BITCOIND_USER="examination"
+#BITCOIND_GROUP="examination"
+
+# Path to examinationd executable
+#BITCOIND_BIN="/usr/bin/examinationd"
+
+# Nice value to run examinationd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS="-disablewallet"
+

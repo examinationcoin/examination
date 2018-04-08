@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/examination_bg.qm</file>
+        <file alias="de">locale/examination_de.qm</file>
+        <file alias="en">locale/examination_en.qm</file>
+        <file alias="es">locale/examination_es.qm</file>
+        <file alias="fi">locale/examination_fi.qm</file>
+        <file alias="fr">locale/examination_fr.qm</file>
+        <file alias="it">locale/examination_it.qm</file>
+        <file alias="ja">locale/examination_ja.qm</file>
+        <file alias="pl">locale/examination_pl.qm</file>
+        <file alias="pt">locale/examination_pt.qm</file>
+        <file alias="ru">locale/examination_ru.qm</file>
+        <file alias="sk">locale/examination_sk.qm</file>
+        <file alias="sv">locale/examination_sv.qm</file>
+        <file alias="vi">locale/examination_vi.qm</file>
+        <file alias="zh_CN">locale/examination_zh_CN.qm</file>
+        <file alias="zh_TW">locale/examination_zh_TW.qm</file>
+    </qresource>
+</RCC>
